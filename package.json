@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "lesson2homework",
+  "version": "0.0.1",
+  "description": "My first App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tinatin tchumbadze",
+  "license": "ISC"
+}
