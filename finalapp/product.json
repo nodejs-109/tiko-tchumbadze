@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Women's Jeans",
+    "description": "Perfect for all-day wear.",
+    "price": 70,
+    "sizes": "S",
+    "colors": "Black",
+    "category": "Jeans",
+    "id": 1
+  },
+  {
+    "title": "Men's T-Shirt",
+    "description": "perfect for casual wear. Available in multiple colors.",
+    "price": 40,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Blue",
+      "Black",
+      "White"
+    ],
+    "category": "T-Shirts",
+    "id": 2
+  },
+  {
+    "title": "Baby's jumper",
+    "description": "Cotton, used daily.",
+    "price": 35,
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Navy Blue",
+      "Forest Green"
+    ],
+    "category": "Baby",
+    "id": 4
+  }
+]
